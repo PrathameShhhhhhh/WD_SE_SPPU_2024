@@ -1,0 +1,14 @@
+form {
+    text-align: center;
+
+}
+input {
+    border-radius: 5px;
+    border: 1px solid #e40000;
+    padding: 10px;
+}
+label{
+    border: 1px solid #674141;
+    border-radius: 5px;
+    padding: 5px;
+}
